@@ -1,0 +1,13 @@
+
+*{
+    background-color: #f15722;
+}
+
+#listaMenu {
+    background-color: blue;
+}
+
+.fundo-azul {
+    background: blue;
+    border: 2px dashed black; 
+}
